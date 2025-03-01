@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mariam/Documents/codes/C3_SimpleBashUtils-6/src/grep/s21_grep'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002C48, symSize: 0x1D4 }
+  - { offsetInCU: 0x49, offset: 0x49, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002C48, symSize: 0x1D4 }
+  - { offsetInCU: 0xE2, offset: 0xE2, size: 0x8, addend: 0x0, symName: _parser, symObjAddr: 0x1D4, symBinAddr: 0x100002E1C, symSize: 0x164 }
+  - { offsetInCU: 0x122, offset: 0x122, size: 0x8, addend: 0x0, symName: _add_samples, symObjAddr: 0x388, symBinAddr: 0x100002FD0, symSize: 0x110 }
+  - { offsetInCU: 0x154, offset: 0x154, size: 0x8, addend: 0x0, symName: _output, symObjAddr: 0x498, symBinAddr: 0x1000030E0, symSize: 0x2F4 }
+  - { offsetInCU: 0x1CC, offset: 0x1CC, size: 0x8, addend: 0x0, symName: _add_file_samples, symObjAddr: 0x78C, symBinAddr: 0x1000033D4, symSize: 0xD8 }
+  - { offsetInCU: 0x244, offset: 0x244, size: 0x8, addend: 0x0, symName: _func_flg_l, symObjAddr: 0x864, symBinAddr: 0x1000034AC, symSize: 0x11C }
+  - { offsetInCU: 0x2BC, offset: 0x2BC, size: 0x8, addend: 0x0, symName: _func_flg_v, symObjAddr: 0x980, symBinAddr: 0x1000035C8, symSize: 0x204 }
+  - { offsetInCU: 0x350, offset: 0x350, size: 0x8, addend: 0x0, symName: _func_flg_o, symObjAddr: 0xB84, symBinAddr: 0x1000037CC, symSize: 0x25C }
+  - { offsetInCU: 0x410, offset: 0x410, size: 0x8, addend: 0x0, symName: _func_flg_c, symObjAddr: 0xDE0, symBinAddr: 0x100003A28, symSize: 0x188 }
+  - { offsetInCU: 0x4B2, offset: 0x4B2, size: 0x8, addend: 0x0, symName: _no_flags, symObjAddr: 0xF68, symBinAddr: 0x100003BB0, symSize: 0x1D8 }
+  - { offsetInCU: 0x546, offset: 0x546, size: 0x8, addend: 0x0, symName: _output_last_enter, symObjAddr: 0x1140, symBinAddr: 0x100003D88, symSize: 0xA0 }
+...

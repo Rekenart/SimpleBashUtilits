@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mariam/Documents/codes/C3_SimpleBashUtils-6/src/cat/s21_cat'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x10000371C, symSize: 0xE4 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x10000371C, symSize: 0xE4 }
+  - { offsetInCU: 0xB0, offset: 0xB0, size: 0x8, addend: 0x0, symName: _parser, symObjAddr: 0xE4, symBinAddr: 0x100003800, symSize: 0xD8 }
+  - { offsetInCU: 0xE2, offset: 0xE2, size: 0x8, addend: 0x0, symName: _func_cat, symObjAddr: 0x284, symBinAddr: 0x1000039A0, symSize: 0xF0 }
+  - { offsetInCU: 0x168, offset: 0x168, size: 0x8, addend: 0x0, symName: _output, symObjAddr: 0x374, symBinAddr: 0x100003A90, symSize: 0x288 }
+  - { offsetInCU: 0x1D2, offset: 0x1D2, size: 0x8, addend: 0x0, symName: _flag_v, symObjAddr: 0x5FC, symBinAddr: 0x100003D18, symSize: 0x1AC }
+...
